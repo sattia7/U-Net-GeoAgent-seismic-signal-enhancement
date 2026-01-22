@@ -228,4 +228,16 @@ This framework is designed for research and controlled industrial environments. 
 
 ## Author Notes
 
-This repository reflects a research-driven seismic enhancement philosophy emphasizing interpretability, physical realism, and amplitude integrity over black-box performance.
+This repository reflects a Geo-Agent research-driven seismic enhancement philosophy emphasizing interpretability, physical realism, and amplitude integrity over black-box performance.
+
+ 🔒 Code Policy
+
+Main application code and notebooks are intentionally excluded.
+
+This repository contains:
+
+    Project structure
+    Documentation
+    Templates
+
+Contact the author for access to the full implementation.
